@@ -28,21 +28,7 @@ library    | lastest version | category | LoC | description
 **[stb_image_resize.h](stb_image_resize.h)** | 0.97 | graphics | 2634 | resize images larger/smaller with good quality
 **[stb_rect_pack.h](stb_rect_pack.h)** | 1.01 | graphics | 623 | simple 2D rectangle packer with decent quality
 **[stb_ds.h](stb_ds.h)** | 0.67 | utility | 1895 | typesafe dynamic array and hash tables for C, will compile in C++
-**[stb_sprintf.h](stb_sprintf.h)** | 1.10 | utility | 1906 | fast sprintf, snprintf for C/C++
-**[stb_textedit.h](stb_textedit.h)** | 1.14 | user&nbsp;interface | 1429 | guts of a text editor for games etc implementing them from scratch
-**[stb_voxel_render.h](stb_voxel_render.h)** | 0.89 | 3D&nbsp;graphics | 3807 | Minecraft-esque voxel rendering "engine" with many more features
-**[stb_dxt.h](stb_dxt.h)** | 1.12 | 3D&nbsp;graphics | 719 | Fabian "ryg" Giesen's real-time DXT compressor
-**[stb_easy_font.h](stb_easy_font.h)** | 1.1 | 3D&nbsp;graphics | 305 | quick-and-dirty easy-to-deploy bitmap font for printing frame rate, etc
-**[stb_tilemap_editor.h](stb_tilemap_editor.h)** | 0.42 | game&nbsp;dev | 4187 | embeddable tilemap editor
-**[stb_herringbone_wa...](stb_herringbone_wang_tile.h)** | 0.7 | game&nbsp;dev | 1221 | herringbone Wang tile map generator
-**[stb_c_lexer.h](stb_c_lexer.h)** | 0.12 | parsing | 940 | simplify writing parsers for C-like languages
-**[stb_divide.h](stb_divide.h)** | 0.94 | math | 433 | more useful 32-bit modulus e.g. "euclidean divide"
-**[stb_connected_comp...](stb_connected_components.h)** | 0.96 | misc | 1049 | incrementally compute reachability on grids
-**[stb_leakcheck.h](stb_leakcheck.h)** | 0.6 | misc | 194 | quick-and-dirty malloc/free leak-checking
-**[stb_include.h](stb_include.h)** | 0.02 | misc | 295 | implement recursive #include support, particularly for GLSL
 
-Total libraries: 20
-Total lines of C code: 42599
 
 
 FAQ
